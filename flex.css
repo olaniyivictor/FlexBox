@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+.container-2{
+    width: 100%;
+    
+    background-color:darkgreen;
+    display: flex;
+    color: white; 
+    
+}
+body{
+    background-color:white;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+.container-2-box{
+    width: 27%;
+}
+.container-2 div{
+     padding: 30px;
+}
+h3{
+    color:white;
+}
